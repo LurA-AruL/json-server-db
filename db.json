@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "username": "admin",
+      "password": "123456"
+    }
+  ],
+  "cars": [
+    {
+      "ownerName": "skjcnsdj",
+      "carModel": "jkbnsjkcbskj",
+      "carNumber": "kjbscbk",
+      "amount": "05000",
+      "interest": "500",
+      "fromDate": "2025-05-20",
+      "images": [
+        "blob:http://localhost:3000/5ba36360-5b14-4e8d-a6f2-c37477e951c5"
+      ],
+      "id": "1d86",
+      "createdAt": "2025-06-18T15:17:27.118Z"
+    }
+  ]
+}
